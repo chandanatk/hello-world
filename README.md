@@ -2,3 +2,5 @@
 Just another repository
 
 Branch edit
+
+local text
